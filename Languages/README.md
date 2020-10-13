@@ -1,2 +1,8 @@
-# Welcome to Resource Hub
-### Grow this repository by adding resources that will help to every developer around the world. 
+# Resources for learn languages
+<br><br>
+
+###HTML
+- [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
+
+
+###CSS
