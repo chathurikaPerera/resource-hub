@@ -7,6 +7,9 @@
 
 ### CSS
 
+- [CSS-Tricks](https://css-tricks.com/)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+
 
 #### Machine Learning
 
