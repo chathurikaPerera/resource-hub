@@ -1,9 +1,10 @@
-# Resources for learn languages
+# Resources for learning languages
 <br><br>
 
 ### HTML
-- [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
 
+- [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
+- [HTML & CSS: Design and Build Web Sites](https://wtf.tw/ref/duckett.pdf)
 
 ### CSS
 
