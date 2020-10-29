@@ -35,3 +35,4 @@
 
 ## Flutter
  -[Flutter tutorial for beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+ -[Flutter file structure for bis projects](https://www.youtube.com/watch?v=Mt41FpSS-Vo)
