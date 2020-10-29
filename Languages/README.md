@@ -28,3 +28,7 @@
 
 - [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+
+## Kotlin
+
+- [kotline for beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
