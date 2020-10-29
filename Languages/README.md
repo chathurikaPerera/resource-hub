@@ -32,6 +32,7 @@
 ## Kotlin
 
 - [kotline for beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+-[Android kotlin programming](https://www.youtube.com/watch?v=IoeezAe-8IQ&list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS)
 
 ## Flutter
  -[Flutter tutorial for beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
